@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I think I can make people laugh.**
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ManasDroid&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anwesh08&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
