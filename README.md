@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Library Project](https://anwesh08.github.io/Library/)
 
-- 🌱 I’m currently learning **ReactJS, Java.**
+- 🌱 I’m currently learning **Java.**
 
 - 🤝 I’m looking for help with **ReactJS.**
 
