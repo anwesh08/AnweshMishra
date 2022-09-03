@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anwesh08.github.io/](https://anwesh08.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, ReactJs**
 
 - 📫 How to reach me **mishra.anwesh0801@gmail.com**
 
