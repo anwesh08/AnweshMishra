@@ -12,7 +12,7 @@
 
 ### ✍️ Random Dev Quote
 <h1 align="center">
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="" />
 </h1>
 
 
