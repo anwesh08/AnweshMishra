@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Anwesh Mishra</h1>
+<h3 align="center">A passionate Frontend developer from India</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Admin Dashboard<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with ReactJs<br>🌱 I’m currently learning ReactJs, Redux<br>💬 Ask me about Frontend Development<br>⚡ Fun fact
 
